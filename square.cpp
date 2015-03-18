@@ -1,3 +1,6 @@
+// Author: Dubraj
+// Date: 18-03-2015
+// simple turtle based c++ program
 #include <simplecpp>
 main_program{
   turtleSim();
